@@ -1,0 +1,43 @@
+Adidas|Continental 80|White|
+Adidas|EQT 93/17|Red|
+Adidas|Ultraboost 3.0|Multicolor|
+Adidas|Ultraboost 3.0|Triple White|
+Adidas|Yeezy 350 V2|Blue Tint|
+Aldo|Chelsea Boots|Tan|
+Asics|Gel Lyte III|Oreo|
+Cole Haan|Loafer|Black|
+Cole Haan|Oxford|Brown|
+Converse|High Top Chuck Taylor|White|
+Converse|Low Top Chuck Taylor|White|
+Jordan|I|Bred Toe|
+Jordan|I|Chameleon|
+Jordan|I|Game Royal|
+Jordan|I|Gold Toe|
+Jordan|I|Shadow|
+Jordan|III|Black Cement|
+Jordan|V|White Cement|
+Jordan|VI|Infrared|
+Jordan|XI|Concord|
+Jordan|XI|Midnight Navy|
+Jordan|XXXII|Westbrook|
+New Balance|247|Green|
+Nike|Air Force 1 Low|White|
+Nike|Air Max 1 Anniversary|Red|
+Nike|Epic React Flyknit|Pink|
+Nike|Flyknit Racer|Multicolor|
+Nike|Free Run 2018|Black|
+Nike|Huarache|All Red|
+Nike|Hyperdunk 2012|Black/Blue/Purple|
+Nike|Kobe IX|Easter Green|
+Nike|Kobe IX|Sunset|
+Nike|Kyrie 3|Black|
+Nike|Lunar Force 1|White/Red|
+Nike|Lunarepic Flyknit 2|White|
+Nike|Pegasus 35|Black/Iridescent|
+Nike|Rosherun|Calypso|
+Nike|SB Dunk High|Blue|
+Puma|Tsugi Netfit|Red|
+Sperry|Boat Shoe|Brown|
+Vans|New Era 59|Cornstalk|
+Vans|New Era 59|White (Dolphin)|
+Vans|Old Skool|Black/White|
