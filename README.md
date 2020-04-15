@@ -16,27 +16,27 @@
   
  ## A look inside
  
- ### _Main Menu_
- ![Main Menu](https://github.com/giancarlo-david/ShoeCollectionV2/blob/master/Pictures/Main%20Menu.JPG)
-	* Provides options for the user to either create a collection or import a previously saved collection
+### _Main Menu_
+![Main Menu](https://github.com/giancarlo-david/ShoeCollectionV2/blob/master/Pictures/Main%20Menu.JPG)
+ * Provides options for the user to either create a collection or import a previously saved collection
 	
- ### _Creating a collection_
- ![Create Collection](https://github.com/giancarlo-david/ShoeCollectionV2/blob/master/Pictures/Create%20New%20Collection.JPG)
-	* Prompts user for how many shoes they want to adding
-	* Gets user input for brand, model, and colorway of the shoe
-	* Prompts input verification prior to moving on to next shoe
-	* Displays editing menu after user is finished adding shoes
+### _Creating a collection_
+![Create Collection](https://github.com/giancarlo-david/ShoeCollectionV2/blob/master/Pictures/Create%20New%20Collection.JPG)
+ * Prompts user for how many shoes they want to adding
+ * Gets user input for brand, model, and colorway of the shoe
+ * Prompts input verification prior to moving on to next shoe
+ * Displays editing menu after user is finished adding shoes
 	
- ### _Importing a collection_
- ![Import Collection](https://github.com/giancarlo-david/ShoeCollectionV2/blob/master/Pictures/Import%20Collection.JPG)
-	* Asks user for the file name of the previously saved txt file
-	* Displays the shoes that were saved within that txt file
+### _Importing a collection_
+![Import Collection](https://github.com/giancarlo-david/ShoeCollectionV2/blob/master/Pictures/Import%20Collection.JPG)
+ * Asks user for the file name of the previously saved txt file
+ * Displays the shoes that were saved within that txt file
 	
- ### _Editing Menu_
- ![Editing Menu](https://github.com/giancarlo-david/ShoeCollectionV2/blob/master/Pictures/Editing%20Menu.JPG)
-	* Displays user options after creating a collection or importing a collection
-		** Add shoe lets user add more shoes to the collection
-		** Remove shoe asks the user which shoe they want removed using the index and removes shoe based on selection
-		** Show collection displays current collection in alphabetical order
-		** Save Collection prompts user to name the txt file they want the collection saved under
-		** Exit, self explanatory
+### _Editing Menu_
+![Editing Menu](https://github.com/giancarlo-david/ShoeCollectionV2/blob/master/Pictures/Editing%20Menu.JPG)
+ * Displays user options after creating a collection or importing a collection
+  ** Add shoe lets user add more shoes to the collection
+  ** Remove shoe asks the user which shoe they want removed using the index and removes shoe based on selection
+  ** Show collection displays current collection in alphabetical order
+  ** Save Collection prompts user to name the txt file they want the collection saved under
+  ** Exit, self explanatory
