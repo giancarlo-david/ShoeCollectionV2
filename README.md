@@ -35,8 +35,8 @@
 ### _Editing Menu_
 ![Editing Menu](https://github.com/giancarlo-david/ShoeCollectionV2/blob/master/Pictures/Editing%20Menu.JPG)
  * Displays user options after creating a collection or importing a collection
-  ** Add shoe lets user add more shoes to the collection
-  ** Remove shoe asks the user which shoe they want removed using the index and removes shoe based on selection
-  ** Show collection displays current collection in alphabetical order
-  ** Save Collection prompts user to name the txt file they want the collection saved under
-  ** Exit, self explanatory
+ 	* Add shoe lets user add more shoes to the collection
+ 	* Remove shoe asks the user which shoe they want removed using the index and removes shoe based on selection
+ 	* Show collection displays current collection in alphabetical order
+ 	* Save Collection prompts user to name the txt file they want the collection saved under
+ 	* Exit, self explanatory
